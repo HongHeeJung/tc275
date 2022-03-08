@@ -1,0 +1,1 @@
+ADC(Analog Digital Converter)
